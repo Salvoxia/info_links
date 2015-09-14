@@ -170,7 +170,7 @@ class InfoLinks {
 		}
 	
 		$Pilot = NULL;
-		if ($killDetail->kll_id) 
+		if ($pilotDetail->plt_id) 
 		{
 			$Pilot = Cacheable::factory('Pilot', $pilotDetail->plt_id);
 		} 
