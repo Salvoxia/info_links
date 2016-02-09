@@ -46,4 +46,7 @@ Log in as admin, enable and configure the mod in the Admin Control Panel -> Modu
 For support for this mod see the Mods Section on the [EVEKB forums](http://www.evekb.org/forum).
 
 
+####Changelog
 
+######Version 1.0
+- initial release
